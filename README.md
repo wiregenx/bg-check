@@ -1,1 +1,1 @@
-# bg-check v1.0
+# bg-check v2.0
